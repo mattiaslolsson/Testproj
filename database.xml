@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rows>
+	<row>
+		<id>
+			<![CDATA[ 1 ]]>
+		</id>
+		<question>
+			<![CDATA[ Ständig hicka eller nysningar med 3 minuters intervaller? ]]>
+		</question>
+	</row>
+	<row>
+		<id>
+			<![CDATA[ 2 ]]>
+		</id>
+		<question>
+			<![CDATA[ Alltid väldigt hungrig eller extremt mätt? ]]>
+		</question>
+	</row>
+	<row>
+		<id>
+			<![CDATA[ 3 ]]>
+		</id>
+		<question>
+			<![CDATA[ Du har inga framtänder eller kindtänder? ]]>
+		</question>
+	</row>
+	<row>
+		<id>
+			<![CDATA[ 4 ]]>
+		</id>
+		<question>
+			<![CDATA[ Vara naken på nobelmiddagen eller vara gluten allergiker? ]]>
+		</question>
+	</row>
+	<row>
+		<id>
+			<![CDATA[ 5 ]]>
+		</id>
+		<question>
+			<![CDATA[ Alla du träffar blir oerhört förvånade (som om du återuppstått från de döda) eller att alltid när du tar ett fotsteg måste du vifta vilt med armarna? ]]>
+		</question>
+		</row>
+	<row>
+		<id>
+			<![CDATA[ 6 ]]>
+		</id><question>
+			<![CDATA[ Aldrig använda Facebook eller aldrig använda mail? ]]>
+		</question>
+	</row>
+	<row>
+		<id>
+			<![CDATA[ 7 ]]>
+		</id>
+			<question>
+				<![CDATA[ Äta 1 kg bomull eller 1 kg sand? ]]>
+			</question>
+		</row>
+</rows>
