@@ -49,7 +49,7 @@ public class TestprojActivity extends Activity {
             	TextView text = (TextView) findViewById(R.id.textView3);
             	text.setText(xr.toString());*/
             		
-            		XmlResourceParser xrp = this.getResources().getXml(R.xml.test);
+            		//XmlResourceParser xrp = this.getResources().getXml(R.xml.test);
             		
             	  } catch (Exception e) {
             	    	System.out.println("XML Pasing Exception = " + e);
